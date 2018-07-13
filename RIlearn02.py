@@ -2,7 +2,6 @@
 """
 Created on Fri Jul 13 08:54:10 2018
 
-@author: hyvarant
 """
 
 from yahoo_finance import Share 
